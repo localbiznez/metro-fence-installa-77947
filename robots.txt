@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://localbiznez.github.io/metro-fence-installa-77947/sitemap.xml
+Sitemap: https://metro-fence-installa-77947.pages.dev/sitemap.xml
